@@ -20,3 +20,6 @@ This repository contains all scientific materials associated with the internatio
 ---
 
 ## 🧩 Repository Structure
+
+
+[![DOI](https://zenodo.org/badge/1071892895.svg)](https://doi.org/10.5281/zenodo.17291604)
