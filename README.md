@@ -341,3 +341,30 @@ The theory is supported by a robust numerical implementation in Python, using an
 If you use this work, please citle:
 E. Lopez, UTSF-MFC AI Collaboration. "Unified Theory of Self-similar Fractal Multiverse Cosmology (UTSF-MFC) v5.5.5" (2024). DOI: 10.5281/zenodo.17291604
 
+# Unified Theory of Spacetime Fractal-Matter Coupling (UTSF-MFC)
+
+**Version:** v5.7.3 | **Status:** Ready for Scientific Review | **License:** MIT
+
+## 🌌 Theoretical Framework
+
+The **Unified Theory of Spacetime Fractal-Matter Coupling (UTSF-MFC)** presents a fundamental reformulation of cosmological dynamics through evolving spacetime dimensionality. This framework introduces redshift-dependent spectral dimensions as the primary mechanism for resolving cosmological tensions, providing natural solutions to the Hubble tension and cosmological constant problem without exotic dark energy components.
+
+### Key Innovations
+
+- **Redshift-dependent spectral dimension**: \(D_f(z) = 4 - \delta_0 e^{-\alpha z}\)
+- **First-principles parameter derivation**: \(\delta_0 = \varphi^{-2} \approx 0.381966\), \(\alpha \approx 0.509\)
+- **Hubble tension resolution**: \(H_0 = 69.4 \pm 1.3\) km/s/Mpc
+- **Cosmological constant natural solution**: Fractal renormalization of quantum vacuum
+- **General Relativity recovery**: \(\lim_{z\to\infty} D_f(z) = 4\)
+
+## 📊 Quick Start
+
+### Access Latest Publication
+
+```bash
+# Clone repository
+git clone https://github.com/Ernestolc55/UTSF-MFC.git
+cd UTSF-MFC/papers
+
+# Access main theoretical framework
+open UTSF_MFC_v5_7_3.pdf
