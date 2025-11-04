@@ -368,3 +368,35 @@ cd UTSF-MFC/papers
 
 # Access main theoretical framework
 open UTSF_MFC_v5_7_3.pdf
+
+# Unified Theory of Spacetime Fractal-Matter Coupling (UTSF-MFC)
+
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Version](https://img.shields.io/badge/Version-v5.8.0-green.svg)
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17291604.svg)
+![arXiv](https://img.shields.io/badge/arXiv-2511.01847v2-b31b1b.svg)
+
+## 📖 Abstract
+
+**Unified Theory of Spacetime Fractal-Matter Coupling (UTSF-MFC) v5.8.0** presents a complete first-principles framework featuring rigorous derivation of all parameters from fundamental principles. The theory introduces redshift-dependent spectral dimensionality and demonstrates empirical superiority over ΛCDM through comprehensive Bayesian analysis with DESI BAO, Planck CMB, and Pantheon+ supernovae data.
+
+## 🎯 Breakthrough Achievements
+
+### 🌟 Core Innovations
+- **First-Principles Parameter Derivation**: All parameters rigorously derived from fundamental constants
+- **Redshift-Dependent Spectral Dimension**: $D_f(z) = 4 - \delta_0 e^{-\alpha z}$ with $\delta_0 = \varphi^{-2} \approx 0.381966$ from 737-mode spectral truncation
+- **Hubble Tension Resolution**: $H_0 = 69.4 \pm 1.3$ km/s/Mpc consistent across early and late universe
+- **Cosmological Constant Natural Resolution**: Fractal renormalization addresses the $10^{120}$ vacuum energy discrepancy
+
+### 📊 Empirical Validation
+- **Statistical Superiority**: $\Delta\chi^2 = -8.3$ improvement over ΛCDM ($\Delta AIC = -3.2$)
+- **Comprehensive Bayesian Analysis**: DESI BAO, Planck CMB, and Pantheon+ supernovae datasets
+- **Robust MCMC Implementation**: 32 walkers, 15,000 steps, Gelman-Rubin $\hat{R} < 1.01$
+
+## 🏗️ Theoretical Framework
+
+### 📐 Fundamental Equations
+
+#### Spectral Dimension Evolution
+```math
+D_f(z) = 4 - \delta_0 e^{-\alpha z}  
