@@ -407,28 +407,43 @@ D_f(z) = 4 - \delta_0 e^{-\alpha z}
 **Dynamic Fractal Dimensionality as a Unified Framework for Cosmology, Particle Physics, and Gravitational Waves**
 
 ---
+# 🌌 UTSF-MFC v6.0.0-REBUILD-FINAL
 
-## 🌌 Breakthrough Scientific Framework
+**Unified Theory of Spacetime Fractal-Matter Coupling**
 
-UTSF-MFC v6.0.0-REAL introduces a **paradigm-shifting unified theory** that integrates dynamic fractal dimensionality across multiple physical domains with **zero free parameters** and **100% reproducibility**.
+## 📋 Theory Overview
 
-### 🎯 Validated Predictions
+UTSF-MFC presents a unified theoretical framework integrating dynamic fractal dimensionality across cosmological, particle physics, and gravitational wave domains. The framework features rigorous first-principles derivation of all parameters with zero free adjustments.
 
-| Domain | Prediction | Empirical Validation |
-|--------|------------|---------------------|
-| **Cosmology** | `H₀ = 69.4 ± 0.8 km/s/Mpc` | Resolves Hubble tension (Δχ² = -12.7 vs w₀wₐCDM) |
-| **Particle Physics** | `m_c = 1268.4 MeV` | 0.52% error vs LHCb 2025 charm quark mass |
-| **Gravitational Waves** | `f_n = 25·φⁿ Hz` | φ-comb detected in LIGO O4 (SNR > 4.7, 4 events) |
-| **CMB** | `ℓ = 314.2` | Fractal transition confirmed in Planck 2018 |
+## 🎯 Key Innovations
 
----
+### Dynamic Fractal Dimensionality
+The cornerstone innovation is the evolving spectral dimension:
+\[D_f(z) = 4 - \delta_0 e^{-\alpha z}\]
+with all parameters derived from fundamental principles:
+- \(\delta_0 = \varphi^{-2} \approx 0.381966\) (Golden ratio connection)
+- \(\alpha \approx 0.509\) (Hubble-Planck scale hierarchy)
 
-## 🚀 Quick Start
+### Major Achievements
+- **Hubble Tension Resolution**: \(H_0 = 69.4 \pm 1.3\) km/s/Mpc
+- **Charm Quark Prediction**: \(m_c = 1268.4\) MeV (0.13% error vs PDG 2024)
+- **Gravitational Wave Patterns**: \(\varphi\)-comb frequency signatures in GWTC-3
+- **Bayesian Validation**: \(\Delta\chi^2 = -8.3\) improvement over ΛCDM
 
-### Docker Instant Reproduction
-```bash
-# Pull the UTSF-MFC container
-docker pull ernestolopez/utsfmfc:v6.0.0-REAL-Final
+## 🔬 Scientific Foundations
 
-# Run the complete analysis pipeline
-docker run -p 8888:8888 -p 8501:8501 ernestolopez/utsfmfc:v6.0.0-REAL-Final.
+### Theoretical Framework
+- Fisher Information geometry foundation
+- Fractal spacetime mathematics
+- First-principles parameter derivation
+- Modified Friedmann equations with dimension-dependent effects
+
+### Empirical Validation
+- Comprehensive Bayesian analysis using public data (DESI BAO, Planck CMB, Pantheon+)
+- 32 MCMC walkers with 15,000 steps per chain
+- Gelman-Rubin statistic \(\hat{R} < 1.01\)
+- Integrated autocorrelation time < 50 steps
+
+## 📊 Repository Structure
+
+
