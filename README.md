@@ -401,49 +401,6 @@ open UTSF_MFC_v5_7_3.pdf
 ```math
 D_f(z) = 4 - \delta_0 e^{-\alpha z}  
 
-# UTSF-MFC v6.0.0-REAL
-## Unified Theoretical Science Framework - Multiscale Fractal Cosmology
 
-**Dynamic Fractal Dimensionality as a Unified Framework for Cosmology, Particle Physics, and Gravitational Waves**
-
----
-# 🌌 UTSF-MFC v6.0.0-REBUILD-FINAL
-
-**Unified Theory of Spacetime Fractal-Matter Coupling**
-
-## 📋 Theory Overview
-
-UTSF-MFC presents a unified theoretical framework integrating dynamic fractal dimensionality across cosmological, particle physics, and gravitational wave domains. The framework features rigorous first-principles derivation of all parameters with zero free adjustments.
-
-## 🎯 Key Innovations
-
-### Dynamic Fractal Dimensionality
-The cornerstone innovation is the evolving spectral dimension:
-\[D_f(z) = 4 - \delta_0 e^{-\alpha z}\]
-with all parameters derived from fundamental principles:
-- \(\delta_0 = \varphi^{-2} \approx 0.381966\) (Golden ratio connection)
-- \(\alpha \approx 0.509\) (Hubble-Planck scale hierarchy)
-
-### Major Achievements
-- **Hubble Tension Resolution**: \(H_0 = 69.4 \pm 1.3\) km/s/Mpc
-- **Charm Quark Prediction**: \(m_c = 1268.4\) MeV (0.13% error vs PDG 2024)
-- **Gravitational Wave Patterns**: \(\varphi\)-comb frequency signatures in GWTC-3
-- **Bayesian Validation**: \(\Delta\chi^2 = -8.3\) improvement over ΛCDM
-
-## 🔬 Scientific Foundations
-
-### Theoretical Framework
-- Fisher Information geometry foundation
-- Fractal spacetime mathematics
-- First-principles parameter derivation
-- Modified Friedmann equations with dimension-dependent effects
-
-### Empirical Validation
-- Comprehensive Bayesian analysis using public data (DESI BAO, Planck CMB, Pantheon+)
-- 32 MCMC walkers with 15,000 steps per chain
-- Gelman-Rubin statistic \(\hat{R} < 1.01\)
-- Integrated autocorrelation time < 50 steps
-
-## 📊 Repository Structure
 
 
