@@ -401,6 +401,33 @@ open UTSF_MFC_v5_7_3.pdf
 ```math
 D_f(z) = 4 - \delta_0 e^{-\alpha z}  
 
+# UTSF-MFC: Universal Temporal-Spatial Fractal - Mirror Field Conjecture
 
+## 🌀 v6.0.0 - Dynamic Fractal Dimensionality Framework for Cosmology
+
+### 🚀 Overview
+
+UTSF-MFC v6.0.0 presents a unified cosmological framework based on **dynamic fractal dimensionality** of spacetime. The theory introduces a fundamental evolution of spacetime's spectral dimension with cosmic scale, providing novel solutions to persistent cosmological tensions and accurate predictions across multiple physical domains.
+
+### 🌟 Key Features
+
+- **Dynamic Fractal Dimension**: `D_f(z) = 4 - δ₀e^(-αz)` with `δ₀ = φ⁻²` derived from first principles
+- **Hubble Tension Resolution**: Predicts `H₀ = 69.4 ± 1.3 km/s/Mpc` compatible with all datasets
+- **Quark Mass Predictions**: Accuracy <0.1% for all quark generations
+- **Gravitational Wave Signatures**: Characteristic φ-comb frequency spectrum
+- **Bayesian Evidence**: Strong preference over ΛCDM with `ln B = 3.4 ± 0.3`
+
+### 📥 Installation
+
+```bash
+# Clone repository
+git clone https://github.com/Ernestolc55/UTSF-MFC.git
+cd UTSF-MFC
+
+# Install dependencies
+pip install numpy scipy matplotlib
+
+# Run validation tests
+python tests/validation_suite.py
 
 
