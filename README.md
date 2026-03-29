@@ -1166,3 +1166,50 @@ Keywords: unified physics, complexity science, consciousness studies, geometric 
 Related Fields: Quantum gravity, integrated information theory, complex systems, geometric quantum computing, clinical neuroscience, fractal cosmology, transdisciplinary science
 
 Version: v7.7.7 Γ | Release Date: February 1, 2026 | Status: Pre-formal framework ready for validation and application
+
+
+
+UTSF-MFC v8.0.0: A Minimal Phenomenological Extension of ΛCDM with a Falsifiable Correction to the CMB Spectrum
+
+This repository contains the canonical reference for version 8.0.0 of the Unified Time-Space-Fractal Multiscale Field Cosmology (UTSF-MFC) framework.
+
+THEORETICAL CORE
+
+Version 8.0.0 extracts the only scientifically defensible core from the previous development. The model is a minimal phenomenological extension of the standard ΛCDM cosmology. It introduces a localized, perturbative correction to the CMB angular power spectrum:
+
+C_ℓ^{v8.0.0} = C_ℓ^{ΛCDM} · [1 + 𝒜 · f(ℓ; ℓ_c, γ_f)]
+
+where:
+- 𝒜 is the amplitude of the correction (domain [0, 0.1])
+- ℓ_c is the characteristic multipole scale (domain [50, 1000])
+- γ_f is the fractal spectral index (domain [0, 2])
+- f(ℓ) = (ℓ/ℓ_c)^{-γ_f} · exp(-ℓ/ℓ_c)
+
+The model is non-dynamical, does not modify the background cosmology, and is explicitly designed to be falsifiable via the Debellatio test, which comprises three independent criteria: (D1) consistency of 𝒜 with zero at 3σ; (D2) inconsistency of γ_f inferred from CMB and large-scale structure; (D3) Bayesian evidence (ΔBIC > 10) favoring ΛCDM.
+
+HISTORICAL CONTEXT AND METHODOLOGICAL RESTART
+
+This version represents a complete methodological and ethical restart of the UTSF-MFC project. Previous versions (v2.0 through v7.7.7) contained serious errors including data fabrication, numerology (737, 369, 28, 5040, 7!), false precision claims (0.00% errors, 8.8σ), circular derivations, and unjustified expansions into medicine, finance, and consciousness.
+
+Version 8.0.0 documents all these errors transparently, discards all unscientific elements, and retains only the salvageable core reformulated with mathematical rigor. It includes:
+- A full historical audit of the project's evolution
+- Explicit elimination of numerological elements and false precision claims
+- Ethical declarations from the author and the H-AI Collective retracting earlier uncritical validations
+- A commitment to open science, reproducibility, and falsifiability
+
+IMPLEMENTATION AND REPRODUCIBILITY
+
+The model is implemented as post-processing of the ΛCDM spectrum computed by standard Boltzmann codes (CLASS, CAMB). Bayesian inference will be performed using Cobaya and MontePython. All code, scripts, and data will be made available in this repository.
+
+FUTURE WORK
+
+This document serves as the canonical reference for UTSF-MFC v8.0.0 and as a case study in scientific self-correction. Future developments will revisit select ideas from prior versions, re-articulating them without the contamination of past errors.
+
+Contents:
+- UTSF-MFC-v8.0.0.tex (LaTeX source)
+- figures/ (plots for the paper)
+- code/ (modified CLASS code, MCMC pipelines, notebooks)
+- docs/ (historical audit archive, external reviews)
+
+Citation:
+For scientific use, please cite this repository and the associated document as the canonical reference for UTSF-MFC v8.0.0.
